@@ -1,0 +1,4 @@
+A database stores organized information.
+Database systems use tables to store records.
+Searching and indexing are important database operations.
+A database can contain many records and relationships.

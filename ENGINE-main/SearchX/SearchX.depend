@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1789098490 source:e:\21\searchx\main.cpp
+	<iostream>
+	<string>
+	"SearchEngine.h"
+
+1789091243 source:e:\21\searchx\textprocessor.cpp
+	"TextProcessor.h"
+	<fstream>
+	<sstream>
+	<cctype>
+
+1789091243 e:\21\searchx\textprocessor.h
+	<string>
+	<vector>
+
+1789052200 source:e:\21\searchx\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1789052128 e:\21\searchx\linkedlist.h
+	<string>
+
+1789057754 source:e:\21\searchx\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1789058111 e:\21\searchx\hashtable.h
+	<string>
+
+1789093105 source:e:\21\searchx\searchindex.cpp
+	"SearchIndex.h"
+	<iostream>
+	<vector>
+
+1789093105 e:\21\searchx\searchindex.h
+	<string>
+	<vector>
+	"HashTable.h"
+	"TextProcessor.h"
+	"BST.h"
+
+1789098490 e:\21\searchx\searchengine.h
+	<string>
+	"SearchIndex.h"
+	"Heap.h"
+	"SearchAlgorithms.h"
+	"SortingAlgorithms.h"
+	"Graph.h"
+	"SearchHistory.h"
+
+1789098880 source:e:\21\searchx\searchengine.cpp
+	"SearchEngine.h"
+	<iostream>
+	<vector>
+	<string>
+
+1789090820 e:\21\searchx\heap.h
+	<vector>
+	"SearchResult.h"
+
+1789091243 e:\21\searchx\searchresult.h
+	<string>
+
+1789090727 source:e:\21\searchx\searchresult.cpp
+	"SearchResult.h"
+
+1789091243 source:e:\21\searchx\heap.cpp
+	"Heap.h"
+
+1789093498 source:e:\21\searchx\bst.cpp
+	"BST.h"
+	<iostream>
+
+1789093498 e:\21\searchx\bst.h
+	<string>
+	<vector>
+
+1789093105 source:e:\21\searchx\searchalgorithms.cpp
+	"SearchAlgorithms.h"
+
+1789093498 e:\21\searchx\searchalgorithms.h
+	<string>
+	<vector>
+
+1789094482 source:e:\21\searchx\sortingalgorithms.cpp
+	"SortingAlgorithms.h"
+
+1789094482 e:\21\searchx\sortingalgorithms.h
+	<string>
+	<vector>
+
+1789096489 source:e:\21\searchx\graph.cpp
+	"Graph.h"
+	<iostream>
+
+1789096489 e:\21\searchx\graph.h
+	<string>
+
+1789097926 source:e:\21\searchx\searchhistory.cpp
+	"SearchHistory.h"
+	<iostream>
+
+1789097926 e:\21\searchx\searchhistory.h
+	<string>
+
+1789107941 source:c:\projects\engine-main\searchx\bst.cpp
+	"BST.h"
+	<iostream>
+
+1789107941 c:\projects\engine-main\searchx\bst.h
+	<string>
+	<vector>
+
+1789107941 source:c:\projects\engine-main\searchx\graph.cpp
+	"Graph.h"
+	<iostream>
+
+1789107941 c:\projects\engine-main\searchx\graph.h
+	<string>
+
+1789107941 source:c:\projects\engine-main\searchx\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1789107941 c:\projects\engine-main\searchx\hashtable.h
+	<string>
+
+1789107941 source:c:\projects\engine-main\searchx\heap.cpp
+	"Heap.h"
+
+1789107941 c:\projects\engine-main\searchx\heap.h
+	<vector>
+	"SearchResult.h"
+
+1789107941 c:\projects\engine-main\searchx\searchresult.h
+	<string>
+
+1789107941 source:c:\projects\engine-main\searchx\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1789107941 c:\projects\engine-main\searchx\linkedlist.h
+	<string>
+
+1791046841 source:c:\projects\engine-main\searchx\main.cpp
+	<iostream>
+	<string>
+	"SearchEngine.h"
+	"UI.h"
+
+1789113521 c:\projects\engine-main\searchx\searchengine.h
+	<string>
+	"SearchIndex.h"
+	"Heap.h"
+	"SearchAlgorithms.h"
+	"SortingAlgorithms.h"
+	"Graph.h"
+	"SearchHistory.h"
+	"RecentSearchDeque.h"
+	"UI.h"
+
+1791045371 c:\projects\engine-main\searchx\searchindex.h
+	<string>
+	<vector>
+	"InvertedIndex.h"
+	"TextProcessor.h"
+	"BST.h"
+	"SparseMatrix.h"
+
+1789107941 c:\projects\engine-main\searchx\textprocessor.h
+	<string>
+	<vector>
+
+1789107941 c:\projects\engine-main\searchx\searchalgorithms.h
+	<string>
+	<vector>
+
+1789107941 c:\projects\engine-main\searchx\sortingalgorithms.h
+	<string>
+	<vector>
+
+1789107941 c:\projects\engine-main\searchx\searchhistory.h
+	<string>
+
+1789107941 source:c:\projects\engine-main\searchx\searchalgorithms.cpp
+	"SearchAlgorithms.h"
+
+1789113521 source:c:\projects\engine-main\searchx\searchengine.cpp
+	"SearchEngine.h"
+	<iostream>
+	<vector>
+	<string>
+
+1789107941 source:c:\projects\engine-main\searchx\searchhistory.cpp
+	"SearchHistory.h"
+	<iostream>
+
+1789110431 source:c:\projects\engine-main\searchx\searchindex.cpp
+	"SearchIndex.h"
+	<iostream>
+	<vector>
+
+1789107941 source:c:\projects\engine-main\searchx\searchresult.cpp
+	"SearchResult.h"
+
+1789107941 source:c:\projects\engine-main\searchx\sortingalgorithms.cpp
+	"SortingAlgorithms.h"
+
+1789107941 source:c:\projects\engine-main\searchx\textprocessor.cpp
+	"TextProcessor.h"
+	<fstream>
+	<sstream>
+	<cctype>
+
+1789109756 source:c:\projects\engine-main\searchx\recentsearchdeque.cpp
+	"RecentSearchDeque.h"
+	<iostream>
+
+1789109756 c:\projects\engine-main\searchx\recentsearchdeque.h
+	<string>
+
+1789110431 c:\projects\engine-main\searchx\sparsematrix.h
+	<string>
+	<vector>
+
+1789110431 source:c:\projects\engine-main\searchx\sparsematrix.cpp
+	"SparseMatrix.h"
+	<iostream>
+
+1789111685 source:c:\projects\engine-main\searchx\ui.cpp
+	"UI.h"
+	<iostream>
+	<cstdlib>
+
+1789111657 c:\projects\engine-main\searchx\ui.h
+	<string>
+
+1791044801 source:c:\projects\engine-main\searchx\invertedindex.cpp
+	"InvertedIndex.h"
+	<iostream>
+	<cctype>
+
+1791044801 c:\projects\engine-main\searchx\invertedindex.h
+	<string>
+

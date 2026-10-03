@@ -1,0 +1,6 @@
+Data structures organize and store data efficiently.
+A stack follows the last in first out principle.
+A queue follows the first in first out principle.
+Linked lists contain nodes connected by links.
+Trees are non linear data structures.
+Graphs can represent relationships between objects.

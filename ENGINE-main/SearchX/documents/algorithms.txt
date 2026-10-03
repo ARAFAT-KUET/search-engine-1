@@ -1,0 +1,5 @@
+An algorithm is a step by step procedure for solving a problem.
+Searching algorithms find data efficiently.
+Sorting algorithms arrange data in a particular order.
+Binary search works on sorted data.
+Merge sort and quick sort are efficient sorting algorithms.

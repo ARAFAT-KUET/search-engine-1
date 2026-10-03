@@ -1,0 +1,5 @@
+C++ is a programming language.
+C++ supports object oriented programming.
+Classes and objects are important concepts in C++.
+Functions are used to organize programs.
+Arrays and pointers are fundamental C++ concepts.
